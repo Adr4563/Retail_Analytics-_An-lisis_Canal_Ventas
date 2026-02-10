@@ -1,5 +1,7 @@
 <h1 align="center">📊 Retail_Analytics – Análisis por Canal de Ventas</h1>
 
+<p align ="center">El documento .pbix tiene un peso mas de 25 MB que inhabilita subir el documento </p>
+
 <p align="center">
   <img src="image_dash.jpg" alt="Dashboard Análisis por Canal de Ventas" width="800"/>
 </p>
